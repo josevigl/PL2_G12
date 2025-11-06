@@ -1,0 +1,21 @@
+﻿# --- Entornos Virtuales ---
+env/
+venv/
+myenv/
+.venv/
+.env
+*.env
+.env.*
+
+# --- Archivos compilados de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# --- Directorios de IDE ---
+# VSCode
+.vscode/
+
+# --- Archivos de Jupyter ---
+.ipynb_checkpoints/
