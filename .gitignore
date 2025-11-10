@@ -19,3 +19,7 @@ __pycache__/
 
 # --- Archivos de Jupyter ---
 .ipynb_checkpoints/
+
+# --- Archivos que genera el notebook ---
+data/
+.hypothesis/
